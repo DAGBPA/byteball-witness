@@ -1,27 +1,28 @@
 {
-  "name": "byteball-witness",
-  "description": "Byteball witness",
-  "author": "Byteball",
-  "version": "0.1.7",
+  "name": "dag-pizza-chef",
+  "description": "DAG Pizza Chef",
+  "author": "DAGBPA",
+  "version": "0.1",
   "main": "start.js",
   "keywords": [
     "witness",
-    "byteball"
+    "DAG",
+    "Pizza"
   ],
   "license": "MIT",
   "repository": {
-    "url": "git://github.com/byteball/byteball-witness.git",
+    "url": "git://github.com/DAGBPA/dag-pizza-chef.git",
     "type": "git"
   },
   "bugs": {
-    "url": "https://github.com/byteball/byteball-witness/issues"
+    "url": "https://github.com/DAGBPA/dag-pizza-chef/issues"
   },
   "browser": {
     "request": "browser-request",
     "secp256k1": "secp256k1/js"
   },
   "dependencies": {
-    "byteballcore": "git+https://github.com/byteball/byteballcore.git",
-    "headless-byteball": "git+https://github.com/byteball/headless-byteball.git"
+    "dag-pizza-dough": "git+https://github.com/DAGBPA/dag-pizza-dough.git",
+    "dag-pizza-headless": "git+https://github.com/DAGBPA/dag-pizza-headless.git"
   }
 }

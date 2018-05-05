@@ -1,1 +1,1 @@
-*/20 * * * * cd byteball-witness; node check_daemon.js 1>>~/.config/byteball-witness/check_daemon.log 2>>~/.config/byteball-witness/check_daemon.err
+*/20 * * * * cd dag-pizza-chef; node check_daemon.js 1>>~/.config/dag-pizza-chef/check_daemon.log 2>>~/.config/dag-pizza-chef/check_daemon.err
