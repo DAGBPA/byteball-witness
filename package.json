@@ -2,7 +2,7 @@
   "name": "dag-pizza-chef",
   "description": "DAG Pizza Chef",
   "author": "DAGBPA",
-  "version": "0.1",
+  "version": "0.1.0",
   "main": "start.js",
   "keywords": [
     "witness",
